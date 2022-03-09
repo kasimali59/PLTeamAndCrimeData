@@ -8,3 +8,6 @@ cd PLTeamAndCrimeData
 ./mvnw package
 java -jar target/*.jar
 ```
+| Method | Url | Description |
+| ------ | --- | ----------- |
+| GET    | /stadium?year={year}&month={month} | Get all PL teams data including crime data. Sorted by month and year |
