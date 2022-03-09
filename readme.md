@@ -17,4 +17,5 @@ java -jar target/*.jar
 | Header-Name	 | Possible values | Description |
 | ------ | --- | ----------- |
 | X-Auth-Token | [a-z1-9]+ | Your authentication token |
+
 To get your own authentication token. You need to create an account at https://www.football-data.org/client/register
