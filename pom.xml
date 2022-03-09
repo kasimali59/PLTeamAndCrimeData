@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.kasim</groupId>
 	<artifactId>TechTest</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>TechTest</name>
 	<description>Technical Test</description>
 	<properties>
